@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/ToneDesigns/static/js/main.cfc2a1e5.chunk.js",
+    "main.js.map": "/ToneDesigns/static/js/main.cfc2a1e5.chunk.js.map",
+    "runtime-main.js": "/ToneDesigns/static/js/runtime-main.fb317977.js",
+    "runtime-main.js.map": "/ToneDesigns/static/js/runtime-main.fb317977.js.map",
+    "static/js/2.4090127a.chunk.js": "/ToneDesigns/static/js/2.4090127a.chunk.js",
+    "static/js/2.4090127a.chunk.js.map": "/ToneDesigns/static/js/2.4090127a.chunk.js.map",
+    "index.html": "/ToneDesigns/index.html",
+    "static/js/2.4090127a.chunk.js.LICENSE.txt": "/ToneDesigns/static/js/2.4090127a.chunk.js.LICENSE.txt",
+    "static/media/backbg.c7c4c1df.jpg": "/ToneDesigns/static/media/backbg.c7c4c1df.jpg",
+    "static/media/backgroundTone.1c8e27c8.jpg": "/ToneDesigns/static/media/backgroundTone.1c8e27c8.jpg",
+    "static/media/bg-coworking.06bccc47.jpeg": "/ToneDesigns/static/media/bg-coworking.06bccc47.jpeg",
+    "static/media/bruce-mars.8a606c4a.jpg": "/ToneDesigns/static/media/bruce-mars.8a606c4a.jpg",
+    "static/media/entrancehall.778dd136.jpg": "/ToneDesigns/static/media/entrancehall.778dd136.jpg",
+    "static/media/familyhall.4be77f3f.jpg": "/ToneDesigns/static/media/familyhall.4be77f3f.jpg",
+    "static/media/frontbg.8ea78918.jpg": "/ToneDesigns/static/media/frontbg.8ea78918.jpg",
+    "static/media/illustration-reset.c5f36c0c.jpg": "/ToneDesigns/static/media/illustration-reset.c5f36c0c.jpg",
+    "static/media/logo-coinbase.87e91c7f.svg": "/ToneDesigns/static/media/logo-coinbase.87e91c7f.svg",
+    "static/media/logo-nasa.c5d11f88.svg": "/ToneDesigns/static/media/logo-nasa.c5d11f88.svg",
+    "static/media/logo-netflix.432ed6b5.svg": "/ToneDesigns/static/media/logo-netflix.432ed6b5.svg",
+    "static/media/logo-pinterest.84470903.svg": "/ToneDesigns/static/media/logo-pinterest.84470903.svg",
+    "static/media/logo-spotify.7e255dc6.svg": "/ToneDesigns/static/media/logo-spotify.7e255dc6.svg",
+    "static/media/logo-vodafone.b3e8486c.svg": "/ToneDesigns/static/media/logo-vodafone.b3e8486c.svg",
+    "static/media/macbook.e0a8c5d5.png": "/ToneDesigns/static/media/macbook.e0a8c5d5.png",
+    "static/media/team-5.d59ab7b9.jpg": "/ToneDesigns/static/media/team-5.d59ab7b9.jpg",
+    "static/media/waves-white.7e7579c6.svg": "/ToneDesigns/static/media/waves-white.7e7579c6.svg",
+    "static/media/womenmajlis.a47da103.jpg": "/ToneDesigns/static/media/womenmajlis.a47da103.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb317977.js",
+    "static/js/2.4090127a.chunk.js",
+    "static/js/main.cfc2a1e5.chunk.js"
+  ]
+}

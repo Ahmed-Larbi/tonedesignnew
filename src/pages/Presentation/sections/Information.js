@@ -59,7 +59,7 @@ function Information() {
                 <DefaultInfoCard
                   icon="flip_to_front"
                   title="Who are we ?!"
-                  description="Responsiveness, quality, flexibility, and creativity are the attributes that DAT is known for. We are the Engineering Consultants in Dubai, Abu Dhabi, and Sharjah providing a wide range of engineering services for building and villa design projects in UAE."
+                  description="Responsiveness, quality, flexibility, and creativity are the attributes that Tone Designs is known for. We are the Engineering Consultants in Dubai, Abu Dhabi, and Sharjah providing a wide range of engineering services for building and villa design projects in UAE."
                 />
               </Grid>
               <Grid item xs={12} md={6}>

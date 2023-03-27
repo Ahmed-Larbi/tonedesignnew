@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/ToneDesigns/static/js/main.cfc2a1e5.chunk.js",
-    "main.js.map": "/ToneDesigns/static/js/main.cfc2a1e5.chunk.js.map",
-    "runtime-main.js": "/ToneDesigns/static/js/runtime-main.fb317977.js",
-    "runtime-main.js.map": "/ToneDesigns/static/js/runtime-main.fb317977.js.map",
-    "static/js/2.4090127a.chunk.js": "/ToneDesigns/static/js/2.4090127a.chunk.js",
-    "static/js/2.4090127a.chunk.js.map": "/ToneDesigns/static/js/2.4090127a.chunk.js.map",
+    "main.js": "/ToneDesigns/static/js/main.fa0b0372.chunk.js",
+    "main.js.map": "/ToneDesigns/static/js/main.fa0b0372.chunk.js.map",
+    "runtime-main.js": "/ToneDesigns/static/js/runtime-main.6e00db11.js",
+    "runtime-main.js.map": "/ToneDesigns/static/js/runtime-main.6e00db11.js.map",
+    "static/js/2.ff3d5408.chunk.js": "/ToneDesigns/static/js/2.ff3d5408.chunk.js",
+    "static/js/2.ff3d5408.chunk.js.map": "/ToneDesigns/static/js/2.ff3d5408.chunk.js.map",
     "index.html": "/ToneDesigns/index.html",
-    "static/js/2.4090127a.chunk.js.LICENSE.txt": "/ToneDesigns/static/js/2.4090127a.chunk.js.LICENSE.txt",
+    "static/js/2.ff3d5408.chunk.js.LICENSE.txt": "/ToneDesigns/static/js/2.ff3d5408.chunk.js.LICENSE.txt",
     "static/media/backbg.c7c4c1df.jpg": "/ToneDesigns/static/media/backbg.c7c4c1df.jpg",
     "static/media/backgroundTone.1c8e27c8.jpg": "/ToneDesigns/static/media/backgroundTone.1c8e27c8.jpg",
     "static/media/bg-coworking.06bccc47.jpeg": "/ToneDesigns/static/media/bg-coworking.06bccc47.jpeg",
@@ -28,8 +28,8 @@
     "static/media/womenmajlis.a47da103.jpg": "/ToneDesigns/static/media/womenmajlis.a47da103.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb317977.js",
-    "static/js/2.4090127a.chunk.js",
-    "static/js/main.cfc2a1e5.chunk.js"
+    "static/js/runtime-main.6e00db11.js",
+    "static/js/2.ff3d5408.chunk.js",
+    "static/js/main.fa0b0372.chunk.js"
   ]
 }
